@@ -1,0 +1,20 @@
+body{
+    background-image: url(paisagem.jpg);
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+}
+
+.container2 {
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+}
+
+p {
+    margin-top: 25px;
+}
