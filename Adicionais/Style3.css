@@ -1,0 +1,19 @@
+body {
+    background-image: url(carta.jpg);
+    background-size: cover;
+    min-height: calc(100vh - 120px);
+    margin-bottom: 120px;
+}
+
+.container {
+    text-align: center;
+    color: black;
+}
+
+h1 {
+    margin: 30px;
+}
+
+p{
+    margin: 20px;
+}
